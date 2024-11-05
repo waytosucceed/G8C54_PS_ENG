@@ -1,0 +1,250 @@
+{
+  "heading": "Homophones and Homonyms",
+  "topics": [
+    {
+      "heading": "Homophones and Homonyms",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Choose the proper use of 'farther.'",
+          "options": [
+            "She couldn't move any farther up the hill.",
+            "They looked for further instructions.",
+            "He would rather go farther than give up now.",
+            "The teacher asked him to explain farther."
+          ],
+          "answer": 0,
+          "explanation": "'Farther' refers to 'physical distance,' making it appropriate when describing movement up the hill."
+        },
+        {
+          "questionNo": 2,
+          "question": "Why do 'rose-rose' qualify as homonyms?",
+          "options": [
+            "They have different meanings and spellings",
+            "They are spelled the same but pronounced differently",
+            "They sound the same and have the same spelling but different meanings",
+            "They have the same meaning but different pronunciations"
+          ],
+          "answer": 2,
+          "explanation": "'Rose' (a flower) and 'rose' (past tense of rise) share spelling and pronunciation while having distinct meanings, categorizing them as homonyms."
+        },
+        {
+          "questionNo": 3,
+          "question": "How are 'bark-bark' considered homonyms?",
+          "options": [
+            "They are spelled the same and sound the same but have opposite meanings",
+            "They sound the same and have the same meaning",
+            "They are pronounced the same but have different meanings",
+            "They are spelled differently but pronounced the same"
+          ],
+          "answer": 2,
+          "explanation": "'Bark' (the sound a dog makes) and 'bark' (the outer covering of a tree) are homonyms because they share pronunciation but differ in meaning."
+        },
+        {
+          "questionNo": 4,
+          "question": "In the sentence, 'She had a flair for the dramatic,' which word best contrasts with 'flair'?",
+          "options": [
+            "Flare",
+            "Flare'd",
+            "Flayer",
+            "Fleer"
+          ],
+          "answer": 0,
+          "explanation": "'Flair' means a natural talent or style, while 'flare' can refer to a burst of light. This question tests the distinction between style and explosive action."
+        },
+        {
+          "questionNo": 5,
+          "question": "In the sentence, 'He chose to desert the sinking ship,' the word 'desert' is best paired with which of the following?",
+          "options": [
+            "Dessert",
+            "Dezire",
+            "Desir",
+            "Desserter"
+          ],
+          "answer": 0,
+          "explanation": "'Desert' (to abandon) contrasts with 'dessert' (a sweet course)."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which of the following sentences uses 'principal' incorrectly?",
+          "options": [
+            "The principal of the school addressed the students.",
+            "His principal concern was the safety of his family.",
+            "The financial principal grew due to interest.",
+            "She was the principal author of the report."
+          ],
+          "answer": 2,
+          "explanation": "In this context, 'principal' refers to the primary sum of money invested or loaned, while the correct term should be 'principal' as the primary amount (not the interest). The other options use 'principal' correctly as either a person in charge or a primary concern."
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the sentence that misuses 'desert.'",
+          "options": [
+            "They decided to desert their posts during the storm.",
+            "The desert landscape was breathtaking at sunset.",
+            "He had a craving for desert after dinner.",
+            "The soldiers were ordered to desert the area."
+          ],
+          "answer": 2,
+          "explanation": "'Desert' (the dry, arid land) is confused with 'dessert' (the sweet course after a meal). This sentence misuses 'desert' when it should refer to 'dessert.'"
+        },
+        {
+          "questionNo": 8,
+          "question": "Homonyms are often confused because they share the same ______ but have different meanings depending on the context.",
+          "options": [
+            "spelling and pronunciation",
+            "pronunciation only",
+            "spelling only",
+            "antonyms"
+          ],
+          "answer": 0,
+          "explanation": "Homonyms have the same spelling and pronunciation but carry different meanings. For example, 'bat' (the animal) and 'bat' (used in sports) are pronounced and spelled the same, yet have distinct meanings."
+        },
+        {
+          "questionNo": 9,
+          "question": "The pair 'write' and 'right' are considered ______ because they sound the same but have different spellings and meanings.",
+          "options": [
+            "synonyms",
+            "homographs",
+            "homophones",
+            "antonyms"
+          ],
+          "answer": 2,
+          "explanation": "Homophones are words that sound the same but have different spellings and meanings, such as 'write' (to form letters) and 'right' (correct or opposite of left)."
+        },
+        {
+          "questionNo": 10,
+          "question": "A homonym can be identified when a word shares the same ______ with another word but has an entirely different meaning, as in 'bank' (financial institution) and 'bank' (side of a river).",
+          "options": [
+            "etymology",
+            "pronunciation",
+            "meaning",
+            "context"
+          ],
+          "answer": 1,
+          "explanation": "Homonyms share the same pronunciation (and often the same spelling), but their meanings differ depending on how they are used in context."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which of the following sentences illustrates the correct use of a homophone? 'She could not ______ the weight of the heavy box.'",
+          "options": [
+            "bare",
+            "bear",
+            "beer",
+            "bar"
+          ],
+          "answer": 1,
+          "explanation": "In this context, 'bear' means to tolerate or carry. The word 'bare' would mean uncovered, while 'beer' and 'bar' do not fit the context."
+        },
+        {
+          "questionNo": 12,
+          "question": "The confusion between 'bare' and 'bear' occurs because they are ______, which can lead to errors in writing.",
+          "options": [
+            "homonyms",
+            "homophones",
+            "synonyms",
+            "antonyms"
+          ],
+          "answer": 1,
+          "explanation": "'Bare' and 'bear' are homophones since they sound the same but have different meanings and spellings, which can cause confusion in usage."
+        },
+        {
+          "questionNo": 13,
+          "question": "The terms 'flour' and 'flower' are examples of ______.",
+          "options": [
+            "synonyms",
+            "homographs",
+            "homophones",
+            "antonyms"
+          ],
+          "answer": 2,
+          "explanation": "'Flour' (a baking ingredient) and 'flower' (a blooming plant) sound the same but have different meanings and spellings."
+        },
+        {
+          "questionNo": 14,
+          "question": "The words 'pail' and 'pale' are examples of ______ because they can lead to confusion in writing.",
+          "options": [
+            "homonyms",
+            "homographs",
+            "homophones",
+            "synonyms"
+          ],
+          "answer": 2,
+          "explanation": "'Pail' (a bucket) and 'pale' (light in color) sound the same but have different meanings and spellings."
+        },
+        {
+          "questionNo": 15,
+          "question": "The words 'cede' and 'seed' are examples of ______ as they are pronounced similarly but have different meanings.",
+          "options": [
+            "antonyms",
+            "homonyms",
+            "synonyms",
+            "homophones"
+          ],
+          "answer": 3,
+          "explanation": "'Cede' (to give up) and 'seed' (a plant's reproductive unit) sound the same, illustrating the concept of homophones."
+        },
+        {
+          "questionNo": 16,
+          "question": "The term ______ is used to describe a pair of words that have the same pronunciation but different meanings and spellings, such as 'pair' and 'pear.'",
+          "options": [
+            "homonym",
+            "homograph",
+            "synonym",
+            "homophone"
+          ],
+          "answer": 3,
+          "explanation": "Homophones are words that sound the same but differ in spelling and meaning."
+        },
+        {
+          "questionNo": 17,
+          "question": "The words 'fair' and 'fare' can be confusing; 'fair' refers to ______ while 'fare' is a ______.",
+          "options": [
+            "just; cost of travel",
+            "just; a marketplace",
+            "a festival; to lead",
+            "a festival; to bear"
+          ],
+          "answer": 0,
+          "explanation": "'Fair' (just or equitable) and 'fare' (the price paid for a ticket) are homophones that have distinct meanings."
+        },
+        {
+          "questionNo": 18,
+          "question": "'The ______ of the story was unexpected,' where 'plot' can be confused with ______.",
+          "options": [
+            "plot; blot",
+            "plot; plot",
+            "plot; pot",
+            "plot; dot"
+          ],
+          "answer": 0,
+          "explanation": "'Plot' (the storyline) and 'blot' (a stain) are homophones that can lead to misunderstandings."
+        },
+        {
+          "questionNo": 19,
+          "question": "The word 'dye' in 'I will ______ my hair' could be confused with ______.",
+          "options": [
+            "die",
+            "due",
+            "dry",
+            "pry"
+          ],
+          "answer": 0,
+          "explanation": "'Dye' (to color) and 'die' (to cease living) are homophones."
+        },
+        {
+          "questionNo": 20,
+          "question": "The word 'stationary' in 'The car remained stationary during the traffic jam' could be confused with ______.",
+          "options": [
+            "stationery",
+            "statuary",
+            "stationary",
+            "state"
+          ],
+          "answer": 0,
+          "explanation": "'Stationary' means not moving, while 'stationery' refers to writing materials like paper and pens. They are homophones with different spellings."
+        }
+      ]
+    }
+  ]
+}

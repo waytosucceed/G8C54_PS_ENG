@@ -1,0 +1,306 @@
+{
+  "heading": "Tenses",
+  "topics": [
+    {
+      "heading": "Simple Present and Simple Past",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Which sentence uses simple present tense?",
+          "options": [
+            "a) They advertised the products.",
+            "b) They are advertising the products.",
+            "c) They advertise the products.",
+            "d) They will advertise the products."
+          ],
+          "answer": 3,
+          "explanation": "The verb ‘advertise’ represents V1 which is used in simple present tense affirmative sentence according to the structural rule: S+V1+O."
+        },
+        {
+          "questionNo": 2,
+          "question": "Choose a simple past negative sentence.",
+          "options": [
+            "a) The jury did not acquit the criminal.",
+            "b) The jury had not acquitted the criminal.",
+            "c) The jury has not acquitted the criminal.",
+            "d) The jury will not acquit the criminal."
+          ],
+          "answer": 1,
+          "explanation": "Option (a) represents an action that was not completed in the past and it also follows the structural rule of simple past sentence, that is, S+did+not+V1+O."
+        },
+        {
+          "questionNo": 3,
+          "question": "Spot the error in the following sentence by choosing an appropriate option: She did not revealed/ the information/ to anyone/ No error",
+          "options": [
+            "a) She did not revealed",
+            "b) the information",
+            "c) to anyone",
+            "d) No error"
+          ],
+          "answer": 1,
+          "explanation": "In the rule of simple past negative sentence, we have already learnt that the auxiliary verb ‘did’ is always followed by the first form of the verb, that is, V1. Therefore, the correct form should be ‘She did not reveal’."
+        },
+        {
+          "questionNo": 4,
+          "question": "Spot the error in the following sentence by choosing the appropriate option: <br> She does not / withheld / the information./ No error",
+          "options": [
+            "a) She does not",
+            "b) withheld",
+            "c) the information.",
+            "d) No error"
+          ],
+          "answer": 2,
+          "explanation": "It has already been discussed that V1 is the form of the verb that is used in simple present tense. Therefore, the correct structural rule of the given sentence should be S+does+not+V1+O. Hence, instead of withheld (V2), the correct form of the verb that should be used is ‘withhold’ (V1)."
+        },
+        {
+          "questionNo": 5,
+          "question": "Choose the sentence that is written in the simple past tense.",
+          "options": [
+            "a) I declared the result.",
+            "b) I am declaring the result.",
+            "c) I have declared the result.",
+            "d) I will declare the result."
+          ],
+          "answer": 1,
+          "explanation": "‘Declared’ is the V2 form of the verb and we already know that the rule for simple past tense is S+V2+O."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence is in the simple present tense?",
+          "options": [
+            "a) The seniors are monitoring the reports.",
+            "b) The seniors monitor the reports frequently.",
+            "c) The seniors have monitored the reports.",
+            "d) The seniors monitored the reports."
+          ],
+          "answer": 2,
+          "explanation": "The word ‘frequently’ shows that the sentence is written in simple present tense. Also, the sentence fulfills the structural rule of simple present tense, that is, S+V1+O."
+        },
+        {
+          "questionNo": 7,
+          "question": "State whether the following statement is true or false:<br> Simple Present Sentence can be used to describe ongoing actions.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 2,
+          "explanation": "We have already discussed that the simple present sentence is used to discuss the actions that are scientifically proven or the actions that are recurrent in nature. Therefore, the given statement is false as simple present tense does not talk about ongoing actions."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which sentence is in the simple past tense?",
+          "options": [
+            "a) The chief guest announced the results.",
+            "b) The chief guest is announcing the results.",
+            "c) The chief guest has announced the results.",
+            "d) The chief guest will announce the results."
+          ],
+          "answer": 1,
+          "explanation": "In the simple past tense, we use the second form of verb, therefore option a) is the correct answer as it satisfies the rule of simple past tense, that is, S+V2+O."
+        },
+        {
+          "questionNo": 9,
+          "question": "State whether the following statement is true or false. Simple Past tense can be used to predict events in the upcoming duration of time.",
+          "options": [
+            "True",
+            "False"
+          ],
+          "answer": 2,
+          "explanation": "Simple Past Tense can never be used to predict the event. Instead, it is used to talk about the actions that happened in the past."
+        },
+        {
+          "questionNo": 10,
+          "question": "Fill in the blanks according to simple present tense:<br> She ___ (read) a book every night before bed.",
+          "options": [
+            "a) read",
+            "b) reads",
+            "c) is reading",
+            "d) are reading"
+          ],
+          "answer": 2,
+          "explanation": "In the simple present tense, for 'she,' we add 's' to the verb. So, it becomes 'reads.'"
+        },
+        {
+          "questionNo": 11,
+          "question": "Convert the underlined verb from simple present to simple past tense by choosing the most appropriate option: <br> She <u>comprehends</u> the data systematically.",
+          "options": [
+            "a) comprehending",
+            "b) comprehended",
+            "c) is comprehending",
+            "d) was comprehending"
+          ],
+          "answer": 2,
+          "explanation": "According to the rule of simple past tense, V2 form of the verb is used, therefore, the verb ‘comprehends’ (V1) will be changed to the verb ‘comprehended’ (V2)."
+        },
+        {
+          "questionNo": 12,
+          "question": "Convert the underlined verb from simple past tense to simple present tense:<br> She <u>delivered</u> brilliant lectures.",
+          "options": [
+            "a) delivering",
+            "b) has delivered",
+            "c) delivers",
+            "d) is delivering"
+          ],
+          "answer": 3,
+          "explanation": "In case of simple present tense, we use the first form of the verb, therefore the verb ‘delivered’ (V2) will be changed to the verb ‘delivers’ (V1)."
+        },
+        {
+          "questionNo": 13,
+          "question": "Spot the error in the following sentence:<br> They manufactured / the goods / annually / No error",
+          "options": [
+            "a) They manufactured",
+            "b) the goods",
+            "c) annually",
+            "d) No error"
+          ],
+          "answer": 1,
+          "explanation": "We already know that simple present tense talks about things that are done at fixed intervals of time. Therefore, the word ‘annually’ shows that the action is done at a fixed interval of one year. Hence, it is simple present tense and should have the first form of the verb in the sentence. Therefore a) is the correct answer as ‘manufactured’ (V2) will be changed to ‘manufacture’ (V1)."
+        },
+        {
+          "questionNo": 14,
+          "question": "Spot the error in the following sentence: <br>The researchers did not / conducted / the experiment. / No error",
+          "options": [
+            "a) The researchers did not",
+            "b) conducted",
+            "c) the experiment",
+            "d) No error"
+          ],
+          "answer": 2,
+          "explanation": "In case of simple past tense, we always use first form of verb with the auxiliary verb ‘did’. Therefore b) is the correct answer as ‘conducted’ (V2) will be changed to conduct (V1), according to the structural rule of simple past tense negative sentence: S+did+not+V1+O."
+        },
+        {
+          "questionNo": 15,
+          "question": "Spot the error in the following sentence: <br>The sun / rose / in the East / No error.",
+          "options": [
+            "The sun",
+            "rose",
+            "in the East",
+            "No error"
+          ],
+          "answer": 1,
+          "explanation": "In the context of simple present tense, scientific facts use the first form of the verb. Therefore, instead of ‘rose’ (V2), it should be ‘rises’ (V1)."
+        },
+        {
+          "questionNo": 16,
+          "question": "Spot the error in the following sentence:<br> They did not / fulfilled / the expectations / No error.",
+          "options": [
+            "They did not",
+            "fulfilled",
+            "the expectations",
+            "No error"
+          ],
+          "answer": 1,
+          "explanation": "In simple past negative sentences, we always use the first form of the verb (V1) according to the rule: S + did + not + V1 + O. Thus, instead of ‘fulfilled’ (V2), it should be ‘fulfill’ (V1)."
+        },
+        {
+          "questionNo": 17,
+          "question": "Fill in the blank by choosing the correct option:<br> The student ______ the worksheets every week.",
+          "options": [
+            "a) revises",
+            "b) revise",
+            "c) revised",
+            "d) is revising"
+          ],
+          "answer": 0,
+          "explanation": "The phrase ‘every week’ indicates a habitual action, making it clear that the sentence is in simple present tense. The structure is S + V1 + s/es + O, hence ‘revises’ is correct."
+        },
+        {
+          "questionNo": 18,
+          "question": "Fill in the blank by choosing the correct option:<br> The officers _____ the records frequently.",
+          "options": [
+            "a) check",
+            "b) checked",
+            "c) is checking",
+            "d) are checking"
+          ],
+          "answer": 0,
+          "explanation": "The word ‘frequently’ indicates that the sentence is written in simple present tense. According to the structure of simple present tense for plural subjects, the correct answer is ‘check’ (V1)."
+        },
+        {
+          "questionNo": 19,
+          "question": "Fill in the blank appropriately:<br> Tom ___ a new novel every month.",
+          "options": [
+            "a) analyses",
+            "b) analysed",
+            "c) is analysing",
+            "d) has analysed"
+          ],
+          "answer": 0,
+          "explanation": "The phrase ‘every month’ signifies the recurrence of action after a fixed interval of time. Therefore, the verb form that should be used is V1, which is ‘analyses.’"
+        },
+        {
+          "questionNo": 20,
+          "question": "Spot the error in the following sentence:<br> The architect (a)/ builds (b)/ that building (c)/ last year. (d)",
+          "options": [
+            "a) The architect",
+            "b) builds",
+            "c) that building",
+            "d) last year"
+          ],
+          "answer": 1,
+          "explanation": "Since the action was done in the past, the correct verb form should be ‘built’ (V2). Hence, the correct sentence is: The architect built that building last year."
+        },
+        {
+          "questionNo": 21,
+          "question": "Fill in the blanks appropriately:<br> He __________ (not / like) spicy food because it upsets his stomach.",
+          "options": [
+            "a) does not like",
+            "b) did not like",
+            "c) is not liking",
+            "d) has not liked"
+          ],
+          "answer": 0,
+          "explanation": "In simple present negative sentences, 'does not' + base form of the verb indicates that the action is not true in the present. 'Does not like' expresses a general dislike."
+        },
+        {
+          "questionNo": 22,
+          "question": "Fill in the blanks appropriately:<br> ________ you __________ (visit) the new art gallery last weekend?",
+          "options": [
+            "a) Did / visit",
+            "b) Do / visit",
+            "c) Were / visiting",
+            "d) Have / visited"
+          ],
+          "answer": 0,
+          "explanation": "In simple past interrogative sentences, 'Did' + subject + base form of the verb is used to ask about actions completed in the past. 'Did visit' is appropriate."
+        },
+        {
+          "questionNo": 23,
+          "question": "Fill in the blanks appropriately:<br> ________ he __________ (enjoy) the concert when he went last month?",
+          "options": [
+            "a) Did / enjoy",
+            "b) Does / enjoy",
+            "c) Was / enjoying",
+            "d) Has / enjoyed"
+          ],
+          "answer": 0,
+          "explanation": "For simple past interrogative sentences, 'Did' + subject + base form of the verb is used to inquire about past events. 'Did enjoy' asks if he enjoyed the concert."
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blank appropriately:<br> She __________ (not / attend) the meeting yesterday due to a scheduling conflict.",
+          "options": [
+            "a) did not attend",
+            "b) does not attend",
+            "c) was not attending",
+            "d) has not attended"
+          ],
+          "answer": 0,
+          "explanation": "In simple past negative sentences, 'did not' + base form indicates that the action did not occur in the past. 'Did not attend' shows that she missed the meeting."
+        },
+        {
+          "questionNo": 25,
+          "question": "Fill in the blank appropriately:<br> We __________ (not / finish) the project before the deadline last month.",
+          "options": [
+            "a) did not finish",
+            "b) do not finish",
+            "c) were not finishing",
+            "d) have not finished"
+          ],
+          "answer": 0,
+          "explanation": "'Did not finish' expresses that the project was not completed before the deadline, referring to an action that did not happen in the past."
+        }
+      ]
+    }
+  ]
+}
